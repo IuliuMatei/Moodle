@@ -9,3 +9,5 @@ As a student, you can check your grades and take tests.
 As a professor, you can create tests, check the tests and grade your students.
 
 I remind you that this project is not made for wrong inputs, so please be careful when you check it.
+
+Please leave a comment with your opinion, it would be helpful for me. :)
